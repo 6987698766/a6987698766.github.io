@@ -4,7 +4,6 @@
     <title>about Huang Yu Ting</title>
   </head>
   <body>
-    <ul>
-　   <li>Home</li>
+    
   </body>
 </html>
